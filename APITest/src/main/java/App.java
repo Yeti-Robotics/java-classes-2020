@@ -6,7 +6,7 @@ import okhttp3.Response;
 
 import java.io.IOException;
 
-public class Application {
+public class App {
     public static void main(String[] args) {
     }
 }
